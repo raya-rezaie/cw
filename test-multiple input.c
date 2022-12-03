@@ -2,7 +2,7 @@
 int main() 
 { 
    int sum = 0; 
-   int n = 20; 
+   int n = 50; 
    while(n--) 
    { 
       int x; 
