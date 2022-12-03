@@ -2,9 +2,9 @@
 
 int main()
 {
-    printf("Hello World!\n");
+    printf("\t\tHello World!\n");
 
-    for (int i=1;i<=122;i++)
+    for (int i=1;i<=50;i++)
 
      printf("%d ",i);
 }
